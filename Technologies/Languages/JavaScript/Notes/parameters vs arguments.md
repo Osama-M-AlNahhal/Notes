@@ -1,0 +1,2 @@
+
+![[parameters vs arguments.png]]
