@@ -1,1 +1,0 @@
-https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits
